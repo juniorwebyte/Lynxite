@@ -99,8 +99,9 @@ O Lynxite está licenciado sob a Licença Apache 2.0 🚀. Isso significa que vo
 ## 🎯 Contato 📬
 Se você tiver alguma dúvida ou quiser saber mais sobre o Lynxite e a IA Regenerativa da Webyte, sinta-se à vontade para entrar em contato! 🚀
 
-- E-mail: contato@webyte.com
+- E-mail: contato@webytebr.com
 - Twitter: [@WebyteTech](https://twitter.com/WebyteTech)
-- GitHub: [https://github.com/webyte](https://github.com/webyte)
+- GitHub: [https://github.com/webyte](https://github.com/juniorwebyte)
+- WhatsApp: (11) 98480-1839
 
 🌟 **Participe dessa jornada!** 🌍 Estamos muito animados com o futuro do Lynxite e esperamos que você faça parte dessa jornada para transformar a inteligência artificial! 🚀💬
